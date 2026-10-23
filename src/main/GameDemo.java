@@ -2,7 +2,7 @@
 package main;
 
 // 1. Import the Player class from the 'entities' directory
-import Game_Learning.src.entities.player;
+import entities.player;
 
 public class GameDemo {
     public static void main(String[] args) {

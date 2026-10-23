@@ -1,4 +1,4 @@
-package Game_Learning.src.entities;
+package entities;
 
 
 public class player {
