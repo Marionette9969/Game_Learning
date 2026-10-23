@@ -1,11 +1,11 @@
 package entities;
 
 
-public class player {
+public class Player {
     public String name;
     public int health;
 
-    public player(String name, int health) {
+    public Player(String name, int health) {
         this.name = name;
         this.health = health;
     }
